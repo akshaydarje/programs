@@ -1,3 +1,6 @@
+#Akshay Darje#
+#M-11#
+
 from randint import rt
 def game (dice faces):
   result=0
